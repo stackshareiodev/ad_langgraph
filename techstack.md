@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareiodev/ad_langgraph](https://github.com/stackshareiodev/ad_langgraph)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|02/09/24 <br/>Report generated|
+|4<br/>Tools used|02/12/24 <br/>Report generated|
 |------|------|
 </div>
 
